@@ -1,0 +1,137 @@
+,subst_name,synonym,casrn,delta-d,delta-p,delta-h,mol-vol,source_id,source_ref,Subst_Name,CASRN_x,id_x,Dup_Name_Flag_x,CASRN_y,Synonym,id_y,Dup_Name_Flag_y
+0,Acetic acid,Ethanoic acid,64-19-7,14.5,8.0,13.5,57.1,1,A1.5,Acetic acid,64-19-7,0000064197,False,64-19-7,Ethanoic acid,,False
+1,Acetic anhydride,Acetyl acetate,108-24-7,16.0,11.7,10.2,94.5,1,A1.6,Acetic anhydride,108-24-7,0000108247,False,108-24-7,Acetyl acetate,,False
+2,Acetone,Dimethyl ketone,67-64-1,15.5,10.4,7.0,74.0,1,A1.7,Acetone,67-64-1,0000067641,False,67-64-1,Dimethyl ketone,,False
+3,Acetonitrile,Methyl cyanide,75-05-8,15.3,18.0,6.1,52.6,1,A1.10,Acetonitrile,75-05-8,0000075058,False,75-05-8,Methyl cyanide,,False
+4,Acetophenone,Acetylbenzene,98-86-2,19.6,8.6,3.7,117.4,1,A1.11,Acetophenone,98-86-2,0000098862,False,98-86-2,Acetylbenzene,,False
+5,Acrylic acid,Vinylformic acid,79-10-7,17.7,6.4,14.9,68.5,1,A1.24,Acrylic acid,79-10-7,0000079107,False,79-10-7,Vinylformic acid,,False
+6,Acrylonitrile,2-Propenenitrile,107-13-1,16.0,12.8,6.8,67.1,1,A1.25,Acrylonitrile,107-13-1,0000107131,False,107-13-1,2-Propenenitrile,,False
+7,Aniline,Arylamine,62-53-3,19.4,5.1,10.2,91.5,1,A1.46,Aniline,62-53-3,0000062533,False,62-53-3,Arylamine,,False
+8,Anisole,Phenoxymethane,100-66-3,17.8,4.1,6.7,119.1,1,A1.48,Anisole,100-66-3,0000100663,False,100-66-3,Phenoxymethane,,False
+9,Artificial almond oil,Benzaldehyde,100-52-7,19.4,7.4,5.3,101.5,1,A1.51,Artificial almond oil,100-52-7,0000100527,False,100-52-7,Benzaldehyde,,False
+10,Benzene,Cyclohexatriene,71-43-2,18.4,0.0,2.0,89.4,1,A1.52,Benzene,71-43-2,0000071432,False,71-43-2,Cyclohexatriene,,False
+11,Benzenemethanol,Benzyl alcohol,100-51-6,18.4,6.3,13.7,103.6,1,A1.58,Benzenemethanol,100-51-6,0000100516,False,100-51-6,Benzyl alcohol,,False
+12,"1,2-Benzenedicarboxylic acid, butyl phenylmethyl ester",Butyl benzyl phthalate,85-68-7,19.0,11.2,3.1,306.0,1,A1.59,"1,2-Benzenedicarboxylic acid, butyl phenylmethyl ester",85-68-7,0000085687,False,85-68-7,Butyl benzyl phthalate,,False
+13,Benzyl methacrylate,"Methacrylic acid, benzyl ester",2495-37-6,16.8,4.1,4.1,167.8,1,A1.61,Benzyl methacrylate,2495-37-6,0002495376,False,2495-37-6,"Methacrylic acid, benzyl ester",,False
+14,alpha-Bromonaphthalene,1-Naphthyl bromide,90-11-9,20.3,3.1,4.1,140.0,1,A1.75,alpha-Bromonaphthalene,90-11-9,0000090119,False,90-11-9,1-Naphthyl bromide,,False
+15,Butanediol diacrylate,Tetramethylene diacrylate,1070-70-8,16.8,9.1,4.2,194.4,1,A1.88,Butanediol diacrylate,1070-70-8,0001070708,False,1070-70-8,Tetramethylene diacrylate,,False
+16,"1,3-Butanediol",Methyltrimethylene glycol,107-88-0,16.6,10.0,21.5,89.9,1,A1.90,"1,3-Butanediol",107-88-0,0000107880,False,107-88-0,Methyltrimethylene glycol,,False
+17,n-Butanol,Methylolpropane,71-36-3,16.0,5.7,15.8,91.5,1,A1.92,n-Butanol,71-36-3,0000071363,False,71-36-3,Methylolpropane,,False
+18,2-Butanol,2-Hydroxybutane,78-92-2,15.8,5.7,14.5,92.0,1,A1.92 [93],2-Butanol,78-92-2,0000078922,False,78-92-2,2-Hydroxybutane,,False
+19,1-(2-Butoxyethoxy)-2-propanol,"4,7-Dioxaundecan-2-ol",124-16-3,15.5,6.5,10.2,185.9,1,A1.101,1-(2-Butoxyethoxy)-2-propanol,124-16-3,0000124163,False,124-16-3,"4,7-Dioxaundecan-2-ol",,False
+20,"Acetic acid, butyl ester",Butyl ethanoate,123-86-4,15.8,3.7,6.3,132.5,1,A1.102,"Acetic acid, butyl ester",123-86-4,0000123864,False,123-86-4,Butyl ethanoate,,False
+21,Butyl acrylate,Acrylic acid n-butyl ester,141-32-2,15.6,6.2,4.9,143.8,1,A1.104,Butyl acrylate,141-32-2,0000141322,False,141-32-2,Acrylic acid n-butyl ester,,False
+22,tert-Butyl alcohol,Trimethyl methanol,75-65-0,15.2,5.1,14.7,95.8,1,A1.611,tert-Butyl alcohol,75-65-0,0000075650,False,75-65-0,Trimethyl methanol,,False
+23,n-Butyl lactate,Butyl 2-hydroxypropanoate,138-22-7,15.8,6.5,10.2,149.0,1,A1.107,n-Butyl lactate,138-22-7,0000138227,False,138-22-7,Butyl 2-hydroxypropanoate,,False
+24,Butyric acid,Ethylacetic acid,107-92-6,14.9,4.1,10.6,110.0,1,A1.114,Butyric acid,107-92-6,0000107926,False,107-92-6,Ethylacetic acid,,False
+25,Butyrolactone,4-Deoxytetronic acid,96-48-0,19.0,6.6,7.4,76.8,1,A1.115,Butyrolactone,96-48-0,0000096480,False,96-48-0,4-Deoxytetronic acid,,False
+26,Butanenitrile,1-Cyanopropane,109-74-0,15.3,12.4,5.1,87.3,1,A1.116,Butanenitrile,109-74-0,0000109740,False,109-74-0,1-Cyanopropane,,False
+27,3-Chloro-1-propanol,Trimethylene chlorohydrin,627-30-5,17.5,5.7,14.7,84.2,1,A1.137,3-Chloro-1-propanol,627-30-5,0000627305,False,627-30-5,Trimethylene chlorohydrin,,False
+28,Chlorobenzene,Monochlorobenzene,108-90-7,19.0,4.3,2.0,102.1,1,A1.148,Chlorobenzene,108-90-7,0000108907,False,108-90-7,Monochlorobenzene,,False
+29,Butyl chloride,1-Chlorobutane,109-69-3,16.2,5.5,2.0,104.5,1,A1.152,Butyl chloride,109-69-3,0000109693,False,109-69-3,1-Chlorobutane,,False
+30,Chloroform,Methane trichloride,67-66-3,17.8,3.1,5.7,80.7,1,A1.156,Chloroform,67-66-3,0000067663,False,67-66-3,Methane trichloride,,False
+31,m-Cresol,3-Hydroxytoluene,108-39-4,18.0,5.1,12.9,104.7,1,A1.169,m-Cresol,108-39-4,0000108394,False,108-39-4,3-Hydroxytoluene,,False
+32,Cyclohexane,Hexanaphthene,110-82-7,16.8,0.0,0.2,108.7,1,A1.181,Cyclohexane,110-82-7,0000110827,False,110-82-7,Hexanaphthene,,False
+33,Cyclohexanol,Hydrophenol,108-93-0,17.4,4.1,13.5,106.0,1,A1.182,Cyclohexanol,108-93-0,0000108930,False,108-93-0,Hydrophenol,,False
+34,Cyclohexanone,Pimelic ketone,108-94-1,17.8,6.3,5.1,104.0,1,A1.183,Cyclohexanone,108-94-1,0000108941,False,108-94-1,Pimelic ketone,,False
+35,Cyclohexylamine,Hexahydroaniline,108-91-8,17.2,3.1,6.5,113.8,1,A1.184,Cyclohexylamine,108-91-8,0000108918,False,108-91-8,Hexahydroaniline,,False
+36,Chlorocyclohexane,Cyclohexyl chloride,542-18-7,17.3,5.5,2.0,118.6,1,A1.185,Chlorocyclohexane,542-18-7,0000542187,False,542-18-7,Cyclohexyl chloride,,False
+37,Diisobutyl ketone,Isovalerone,108-83-8,16.0,3.7,4.1,177.1,1,A1.203,Diisobutyl ketone,108-83-8,0000108838,False,108-83-8,Isovalerone,,False
+38,Diacetone alcohol,4-Hydroxy-4-methyl-2-pentanone,123-42-2,15.8,8.2,10.8,124.2,1,A1.209,Diacetone alcohol,123-42-2,0000123422,False,123-42-2,4-Hydroxy-4-methyl-2-pentanone,,False
+39,"1,2-Benzenedicarboxylic acid, dibutyl ester",Dibutyl phthalate,84-74-2,17.8,8.6,4.1,266.0,1,A1.221,"1,2-Benzenedicarboxylic acid, dibutyl ester",84-74-2,0000084742,False,84-74-2,Dibutyl phthalate,,False
+40,o-Dichlorobenzene,Special termite fluid,95-50-1,19.2,6.3,3.3,112.8,1,A1.234,o-Dichlorobenzene,95-50-1,0000095501,False,95-50-1,Special termite fluid,,False
+41,Diethylamine,"N,N-Diethylamine",109-89-7,14.9,2.3,6.1,103.2,1,A1.252,Diethylamine,109-89-7,0000109897,False,109-89-7,"N,N-Diethylamine",,False
+42,Diethyl ether,Ether,60-29-7,14.5,2.9,5.1,104.8,1,A1.255,Diethyl ether,60-29-7,0000060297,False,60-29-7,Ether,,False
+43,Diethyl sulfide,Thioethyl ether,352-93-2,16.8,3.1,2.0,107.4,1,A1.260,Diethyl sulfide,352-93-2,0000352932,False,352-93-2,Thioethyl ether,,False
+44,Diethylene glycol,Bis(2-hydroxyethyl) ether,111-46-6,16.6,12.0,20.7,94.9,1,A1.263,Diethylene glycol,111-46-6,0000111466,False,111-46-6,Bis(2-hydroxyethyl) ether,,False
+45,Butyl carbitol acetate,Diethylene glycol butyl ether acetate,124-17-4,16.0,4.1,8.2,208.2,1,A1.264,Butyl carbitol acetate,124-17-4,0000124174,False,124-17-4,Diethylene glycol butyl ether acetate,,False
+46,Butoxydiglycol,Diethylene glycol monobutyl ether,112-34-5,16.0,7.0,10.6,170.6,1,A1.267,Butoxydiglycol,112-34-5,0000112345,False,112-34-5,Diethylene glycol monobutyl ether,,False
+47,Carbitol,Diethylene glycol ethyl ether,111-90-0,16.1,9.2,12.2,130.9,1,A1.268,Carbitol,111-90-0,0000111900,False,111-90-0,Diethylene glycol ethyl ether,,False
+48,Diethylene glycol monoethyl ether acetate,Ethoxydiglycol acetate,112-15-2,16.2,5.1,9.2,175.5,1,A1.269,Diethylene glycol monoethyl ether acetate,112-15-2,0000112152,False,112-15-2,Ethoxydiglycol acetate,,False
+49,Diethylene glycol monomethyl ether,"Ethanol, 2-(2-methoxyethoxy)-",111-77-3,16.2,7.8,12.6,118.0,1,A1.270,Diethylene glycol monomethyl ether,111-77-3,0000111773,False,111-77-3,"Ethanol, 2-(2-methoxyethoxy)-",,False
+50,Dimethylacetamide,DMAc,127-19-5,16.8,11.5,10.2,92.5,1,A1.285,Dimethylacetamide,127-19-5,0000127195,False,127-19-5,DMAc,,False
+51,Diethylene glycol dimethyl ether,Diglyme,111-96-6,15.8,6.1,9.2,142.0,1,A1.292,Diethylene glycol dimethyl ether,111-96-6,0000111966,False,111-96-6,Diglyme,,False
+52,Deanol,Dimethylmonoethanolamine,108-01-0,16.1,9.2,15.3,101.1,1,A1.295,Deanol,108-01-0,0000108010,False,108-01-0,Dimethylmonoethanolamine,,False
+53,Dimethylformamide,DMF,68-12-2,17.4,13.7,11.3,77.0,1,A1.297,Dimethylformamide,68-12-2,0000068122,False,68-12-2,DMF,,False
+54,"1,2-Benzenedicarboxylic acid, dimethyl ester",Phthalic acid dimethyl ester,131-11-3,18.6,10.8,4.9,163.0,1,A1.300,"1,2-Benzenedicarboxylic acid, dimethyl ester",131-11-3,0000131113,False,131-11-3,Phthalic acid dimethyl ester,,False
+55,Dimethyl sulfone,Sulfonylbismethane,67-71-0,19.0,19.4,12.3,75.0,1,A1.302,Dimethyl sulfone,67-71-0,0000067710,False,67-71-0,Sulfonylbismethane,,False
+56,Dimethyl sulfoxide,DMSO,67-68-5,18.4,16.4,10.2,71.3,1,A1.303,Dimethyl sulfoxide,67-68-5,0000067685,False,67-68-5,DMSO,,False
+57,Bis(2-ethylhexyl)hexanedioate,Dioctyl adipate,103-23-1,16.7,2.0,5.1,400.0,1,[A1.1142],Bis(2-ethylhexyl)hexanedioate,103-23-1,0000103231,False,103-23-1,Dioctyl adipate,,True
+58,Bis(2-ethylhexyl) phthalate,Dioctyl phthalate,117-81-7,16.6,7.0,3.1,377.0,1,[A1.305],Bis(2-ethylhexyl) phthalate,117-81-7,0000117817,False,117-81-7,Dioctyl phthalate,,True
+59,Dioxane,para-Dioxane,123-91-1,19.0,1.8,7.4,85.7,1,A1.306,Dioxane,123-91-1,0000123911,False,123-91-1,para-Dioxane,,False
+60,Dipropylamine,"1-Propanamine, N-propyl-",142-84-7,15.3,1.4,4.1,136.9,1,A1.308,Dipropylamine,142-84-7,0000142847,False,142-84-7,"1-Propanamine, N-propyl-",,False
+61,Dipropylene glycol,Oxybispropanol,25265-71-8,16.5,10.6,17.7,130.9,1,A1.309,Dipropylene glycol,25265-71-8,0025265718,False,25265-71-8,Oxybispropanol,,False
+62,Dipropylene glycol monomethyl ether,Dipropylene glycol methyl ether,34590-94-8,15.5,5.7,11.2,157.4,1,A1.310,Dipropylene glycol monomethyl ether,34590-94-8,0034590948,False,34590-94-8,Dipropylene glycol methyl ether,,False
+63,Epichlorohydrin,Glycidyl chloride,106-89-8,18.9,7.6,6.6,78.4,1,A1.318,Epichlorohydrin,106-89-8,0000106898,False,106-89-8,Glycidyl chloride,,False
+64,Distilled spirits,Absolute ethanol,64-17-5,15.8,8.8,19.4,58.5,1,A1.325,Distilled spirits,64-17-5,0000064175,False,64-17-5,Absolute ethanol,,False
+65,2-Aminoethanol,Ethanolamine,141-43-5,17.0,15.5,21.2,59.8,1,A1.326,2-Aminoethanol,141-43-5,0000141435,False,141-43-5,Ethanolamine,,False
+66,"Acetic acid, ethyl ester",Ethyl acetate,141-78-6,15.8,5.3,7.2,98.5,1,A1.328,"Acetic acid, ethyl ester",141-78-6,0000141786,False,141-78-6,Ethyl acetate,,False
+67,Ethyl acrylate,Ethoxycarbonylethylene,140-88-5,15.5,7.1,5.5,108.8,1,A1.330,Ethyl acrylate,140-88-5,0000140885,False,140-88-5,Ethoxycarbonylethylene,,False
+68,Ethylbenzene,Phenylethane,100-41-4,17.8,0.6,1.4,123.1,1,A1.333,Ethylbenzene,100-41-4,0000100414,False,100-41-4,Phenylethane,,False
+69,Ethyl lactate,Ethyl 2-hydroxypropionate,97-64-3,16.0,7.6,12.5,115.0,1,A1.353,Ethyl lactate,97-64-3,0000097643,False,97-64-3,Ethyl 2-hydroxypropionate,,False
+70,Ethyl butanol,Pseudohexyl alcohol,97-95-0,15.8,4.3,13.5,123.2,1,A1.360,Ethyl butanol,97-95-0,0000097950,False,97-95-0,Pseudohexyl alcohol,,False
+71,2-Ethylhexanol,Octyl alcohol,104-76-7,15.9,3.3,11.8,156.6,1,A1.345,2-Ethylhexanol,104-76-7,0000104767,False,104-76-7,Octyl alcohol,,False
+72,"1,3-Dioxolan-2-one",Glycol carbonate,96-49-1,19.4,21.7,5.1,66.0,1,A1.363,"1,3-Dioxolan-2-one",96-49-1,0000096491,False,96-49-1,Glycol carbonate,,False
+73,Ethylene cyanohydrin,2-Cyanoethanol,109-78-4,17.2,18.8,17.6,68.3,1,A1.365,Ethylene cyanohydrin,109-78-4,0000109784,False,109-78-4,2-Cyanoethanol,,False
+74,"1,2-Dichloroethane",Ethylene chloride,107-06-2,19.0,7.4,4.1,79.4,1,A1.367,"1,2-Dichloroethane",107-06-2,0000107062,False,107-06-2,Ethylene chloride,,False
+75,"1,2-Ethanediol",Ethylene glycol,107-21-1,17.0,11.0,26.0,55.8,1,A1.368,"1,2-Ethanediol",107-21-1,0000107211,False,107-21-1,Ethylene glycol,,False
+76,Butoxyethanol,Butylglycol,111-76-2,16.0,5.1,12.3,131.6,1,A1.375,Butoxyethanol,111-76-2,0000111762,False,111-76-2,Butylglycol,,False
+77,"Ethanol, 2-ethoxy-",Hydroxy ether,110-80-5,16.2,9.2,14.3,97.8,1,A1.376,"Ethanol, 2-ethoxy-",110-80-5,0000110805,False,110-80-5,Hydroxy ether,,False
+78,"Ethanol, 2-ethoxy-, acetate",Oxitol acetate,111-15-9,15.9,4.7,10.6,136.1,1,A1.377,"Ethanol, 2-ethoxy-, acetate",111-15-9,0000111159,False,111-15-9,Oxitol acetate,,False
+79,"Ethanol, 2-methoxy-",3-Oxa-1-butanol,109-86-4,16.2,9.2,16.4,79.1,1,A1.380,"Ethanol, 2-methoxy-",109-86-4,0000109864,False,109-86-4,3-Oxa-1-butanol,,False
+80,Formamide,Carbamaldehyde,75-12-7,17.2,26.2,19.0,39.8,1,A1.397,Formamide,75-12-7,0000075127,False,75-12-7,Carbamaldehyde,,False
+81,Formic acid,Aminic acid,64-18-6,14.3,11.9,16.6,37.8,1,A1.398,Formic acid,64-18-6,0000064186,False,64-18-6,Aminic acid,,False
+82,Furfuryl alcohol,2-Hydroxymethylfuran,98-00-0,17.4,7.6,15.1,86.5,1,A1.405,Furfuryl alcohol,98-00-0,0000098000,False,98-00-0,2-Hydroxymethylfuran,,False
+83,Glycerin,"1,2,3-Propanetriol",56-81-5,17.4,12.1,29.3,73.3,1,A1.406,Glycerin,56-81-5,0000056815,False,56-81-5,"1,2,3-Propanetriol",,False
+84,Glycidyl methacrylate,"2,3-Epoxypropyl methacrylic acid ester",106-91-2,16.3,8.5,5.7,136.4,1,A1.407,Glycidyl methacrylate,106-91-2,0000106912,False,106-91-2,"2,3-Epoxypropyl methacrylic acid ester",,False
+85,Hexafluoroisopropanol,Bis(trifluoromethyl)methanol,920-66-1,17.2,4.5,14.7,105.3,1,A1.414,Hexafluoroisopropanol,920-66-1,0000920661,False,920-66-1,Bis(trifluoromethyl)methanol,,False
+86,Hempa,Hexamethylphosphoramide,680-31-9,18.5,8.6,11.3,175.7,1,A1.416,Hempa,680-31-9,0000680319,False,680-31-9,Hexamethylphosphoramide,,False
+87,2-Hydroxyethyl acrylate,"Ethylene glycol, acrylate",818-61-1,16.0,13.2,13.4,114.9,1,A1.425,2-Hydroxyethyl acrylate,818-61-1,0000818611,False,818-61-1,"Ethylene glycol, acrylate",,False
+88,"Acetic acid, 2-methylpropyl ester",Isobutyl acetate,110-19-0,15.1,3.7,6.3,133.5,1,A1.430,"Acetic acid, 2-methylpropyl ester",110-19-0,0000110190,False,110-19-0,Isobutyl acetate,,False
+89,Isobutyl alcohol,2-Methyl propanol,78-83-1,15.1,5.7,15.9,92.8,1,A1.431,Isobutyl alcohol,78-83-1,0000078831,False,78-83-1,2-Methyl propanol,,False
+90,Isobutyl isobutyrate,"Isobutyric acid, isobutyl ester",97-85-8,15.1,2.9,5.9,163.0,1,A1.432,Isobutyl isobutyrate,97-85-8,0000097858,False,97-85-8,"Isobutyric acid, isobutyl ester",,False
+91,Isophorone,Isoacetophorone,78-59-1,16.6,8.2,7.4,150.5,1,A1.438,Isophorone,78-59-1,0000078591,False,78-59-1,Isoacetophorone,,False
+92,n-Dodecyl methacrylate,Lauryl methacrylate,142-90-5,14.4,2.2,5.1,293.1,1,A1.448,n-Dodecyl methacrylate,142-90-5,0000142905,False,142-90-5,Lauryl methacrylate,,False
+93,Mesityl oxide,2-Methyl-4-oxo-2-pentene,141-79-7,16.4,6.1,6.1,115.6,1,A1.450,Mesityl oxide,141-79-7,0000141797,False,141-79-7,2-Methyl-4-oxo-2-pentene,,False
+94,Methacrylic acid,2-Methylenepropionic acid,79-41-4,15.8,2.8,10.2,84.8,1,A1.454,Methacrylic acid,79-41-4,0000079414,False,79-41-4,2-Methylenepropionic acid,,False
+95,Methacrylonitrile,Isopropene cyanide,126-98-7,15.8,15.1,5.4,83.9,1,A1.455,Methacrylonitrile,126-98-7,0000126987,False,126-98-7,Isopropene cyanide,,False
+96,Methanol,Pyroxylic spirits,67-56-1,15.1,12.3,22.3,40.7,1,A1.456,Methanol,67-56-1,0000067561,False,67-56-1,Pyroxylic spirits,,False
+97,4-Methoxy-4-methyl-2-pentanone,Pentoxone,107-70-0,15.3,6.0,5.9,143.5,1,A1.458,4-Methoxy-4-methyl-2-pentanone,107-70-0,0000107700,False,107-70-0,Pentoxone,,False
+98,"Acetic acid, methyl ester",Methyl acetate,79-20-9,15.5,7.2,7.6,79.7,1,A1.464,"Acetic acid, methyl ester",79-20-9,0000079209,False,79-20-9,Methyl acetate,,False
+99,Methyl acrylate,Methyl 2-propenoate,96-33-3,15.3,6.7,9.4,90.3,1,A1.467,Methyl acrylate,96-33-3,0000096333,False,96-33-3,Methyl 2-propenoate,,False
+100,2-Butanone,Methyl ethyl ketone,78-93-3,16.0,9.0,5.1,90.1,1,A1.481,2-Butanone,78-93-3,0000078933,False,78-93-3,Methyl ethyl ketone,,False
+101,2-Butanone oxime,Ethyl methyl ketoxime,96-29-7,14.7,4.9,7.8,94.8,1,A1.482,2-Butanone oxime,96-29-7,0000096297,False,96-29-7,Ethyl methyl ketoxime,,False
+102,Methyl isoamyl ketone,MIAK,110-12-3,16.0,5.7,4.1,142.8,1,A1.489,Methyl isoamyl ketone,110-12-3,0000110123,False,110-12-3,MIAK,,False
+103,Isobutylmethylcarbinol,MAOH,108-11-2,15.4,3.3,12.3,127.2,1,A1.490,Isobutylmethylcarbinol,108-11-2,0000108112,False,108-11-2,MAOH,,False
+104,Isopropylacetone,Methyl isobutyl ketone,108-10-1,15.3,6.1,4.1,125.8,1,A1.491,Isopropylacetone,108-10-1,0000108101,False,108-10-1,Methyl isobutyl ketone,,False
+105,Methyl methacrylate,Diakon,80-62-6,15.8,6.5,5.4,106.1,1,A1.497,Methyl methacrylate,80-62-6,0000080626,False,80-62-6,Diakon,,False
+106,1-Methyl-2-pyrrolidinone,N-Methyl-gamma-butyrolactam,872-50-4,18.0,12.3,7.2,96.5,1,A1.521,1-Methyl-2-pyrrolidinone,872-50-4,0000872504,False,872-50-4,N-Methyl-gamma-butyrolactam,,False
+107,Dichloromethane,Methylene chloride,75-09-2,18.2,6.3,6.1,63.9,1,A1.524,Dichloromethane,75-09-2,0000075092,False,75-09-2,Methylene chloride,,False
+108,Morpholine,"Tetrahydro-1,4-oxazine",110-91-8,18.8,4.9,9.2,87.1,1,A1.526,Morpholine,110-91-8,0000110918,False,110-91-8,"Tetrahydro-1,4-oxazine",,False
+109,Nitrobenzene,Essence of mirbane,98-95-3,20.0,8.6,4.1,102.7,1,A1.531,Nitrobenzene,98-95-3,0000098953,False,98-95-3,Essence of mirbane,,False
+110,Nitroethane,"Ethane, nitro-",79-24-3,16.0,15.5,4.5,71.5,1,A1.532,Nitroethane,79-24-3,0000079243,False,79-24-3,"Ethane, nitro-",,False
+111,Nitromethane,Nitrocarbol,75-52-5,15.8,18.8,5.1,54.3,1,A1.534,Nitromethane,75-52-5,0000075525,False,75-52-5,Nitrocarbol,,False
+112,2-Nitropropane,Dimethylnitromethane,79-46-9,16.2,12.1,4.1,86.9,1,A1.536,2-Nitropropane,79-46-9,0000079469,False,79-46-9,Dimethylnitromethane,,False
+113,n-Pentanol,Amylol,71-41-0,15.9,5.9,13.9,108.6,1,A1.552,n-Pentanol,71-41-0,0000071410,False,71-41-0,Amylol,,False
+114,n-Propanol,Ethyl carbinol,71-23-8,16.0,6.8,17.4,75.2,1,A1.569,n-Propanol,71-23-8,0000071238,False,71-23-8,Ethyl carbinol,,False
+115,Isopropanol,i-Propanol,67-63-0,15.8,6.1,16.4,76.8,1,A1.570,Isopropanol,67-63-0,0000067630,False,67-63-0,i-Propanol,,False
+116,"1,3-Dioxolan-2-one, 4-methyl-",Propylene carbonate,108-32-7,20.0,18.0,4.1,85.0,1,A1.584,"1,3-Dioxolan-2-one, 4-methyl-",108-32-7,0000108327,False,108-32-7,Propylene carbonate,,False
+117,"1,2-Propanediol",Trimethyl glycol,57-55-6,16.8,9.4,23.3,73.6,1,A1.585,"1,2-Propanediol",57-55-6,0000057556,False,57-55-6,Trimethyl glycol,,False
+118,1-Methoxy-2-hydroxypropane,1-Methoxy-2-propanol,107-98-2,15.6,6.3,11.6,93.8,1,A1.591,1-Methoxy-2-hydroxypropane,107-98-2,0000107982,False,107-98-2,1-Methoxy-2-propanol,,False
+119,Pyridine,Azine,110-86-1,19.0,8.8,5.9,80.9,1,A1.598,Pyridine,110-86-1,0000110861,False,110-86-1,Azine,,False
+120,2-Pyrrolidone,Butyrolactam,616-45-5,19.4,17.4,11.3,76.4,1,A1.599,2-Pyrrolidone,616-45-5,0000616455,False,616-45-5,Butyrolactam,,False
+121,Styrene,Ethenylbenzene,100-42-5,18.6,1.0,4.1,115.6,1,A1.604,Styrene,100-42-5,0000100425,False,100-42-5,Ethenylbenzene,,False
+122,Tetrahydrofuran,THF,109-99-9,16.8,5.7,8.0,81.7,1,A1.617,Tetrahydrofuran,109-99-9,0000109999,False,109-99-9,THF,,False
+123,"2-Furanmethanol, tetrahydro-",THFA,97-99-4,17.8,8.2,10.2,97.0,1,A1.1096,"2-Furanmethanol, tetrahydro-",97-99-4,0000097994,False,97-99-4,THFA,,False
+124,Tetralin,Tetrahydronaphthalene,119-64-2,19.6,2.0,2.9,136.0,1,A1.618,Tetralin,119-64-2,0000119642,False,119-64-2,Tetrahydronaphthalene,,False
+125,Tetramethylurea,TMU,632-22-4,16.7,8.2,11.0,120.4,1,A1.624,Tetramethylurea,632-22-4,0000632224,False,632-22-4,TMU,,False
+126,"Benzene, methyl-",Toluene,108-88-3,18.0,1.4,2.0,106.8,1,A1.637,"Benzene, methyl-",108-88-3,0000108883,False,108-88-3,Toluene,,False
+127,"Ethane, 1,1,1-trichloro-",Chlorothene,71-55-6,16.8,4.3,2.0,99.3,1,A1.647,"Ethane, 1,1,1-trichloro-",71-55-6,0000071556,False,71-55-6,Chlorothene,,False
+128,Trichloroethylene,Ethylene trichloride,79-01-6,18.0,3.1,5.3,90.2,1,A1.649,Trichloroethylene,79-01-6,0000079016,False,79-01-6,Ethylene trichloride,,False
+129,Imol S-140,Tricresyl phosphate,1330-78-5,19.0,12.3,4.5,316.0,1,A1.653,Imol S-140,1330-78-5,0001330785,False,1330-78-5,Tricresyl phosphate,,False
+130,Triethylamine,"N,N-Diethylethanamine",121-44-8,17.8,0.4,1.0,138.6,1,A1.656,Triethylamine,121-44-8,0000121448,False,121-44-8,"N,N-Diethylethanamine",,False
+131,Triethyl phosphate,TEP,78-40-0,16.7,11.4,9.2,171.0,1,A1.659,Triethyl phosphate,78-40-0,0000078400,False,78-40-0,TEP,,True
+132,Trimethyl phosphate,TMPA,512-56-1,16.7,15.9,10.2,115.8,1,A1.671,Trimethyl phosphate,512-56-1,0000512561,False,512-56-1,TMPA,,False
+133,Trioctyl phosphate,TOF,78-42-2,16.2,5.9,4.2,469.8,1,A1.1151,Trioctyl phosphate,78-42-2,0000078422,False,78-42-2,TOF,,False
+134,PPG-3 methyl ether,Tripropylene glycol methyl ether,25498-49-1,15.3,5.5,10.4,214.0,1,A1.672,PPG-3 methyl ether,25498-49-1,0025498491,False,25498-49-1,Tripropylene glycol methyl ether,,False
+135,4-Xylene,p-Xylene,106-42-3,17.6,1.0,3.1,123.3,1,A1.697,4-Xylene,106-42-3,0000106423,False,106-42-3,p-Xylene,,False
