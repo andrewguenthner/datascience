@@ -1,0 +1,33 @@
+﻿polymer_id,subst_name,common_name,acronym,trade_name,manufacturer,delta_d,delta_p,delta_h,R0,src_id
+1,Acrylonitrile-butadiene elastomer,acrylonitrile rubber,ABR,Hycar 1052,BF Goodrich,18.6,8.8,4.2,9.6,3
+2,Alcohol soluble resin,alcohol resin,,Pentalyn 255,Hercules,17.6,9.4,14.3,10.6,3
+3,Alcohol soluble resin,alcohol resin ,,Pentalyn 830,Hercules,20,5.8,10.9,11.7,3
+4,"Alkyd, long oil,66% oil length",alkyd resin,AR,Plexal P65,Polyplex,20.4,3.4,4.6,13.7,3
+5,"Alkyd, short oil, coconut oil 34% phthalic anhydride",short alkyd resin,AR,Plexal C34,Polyplex,18.5,9.2,4.9,10.6,3
+6,Blocked phenol isocyanate,polyurethane aromatic,PU,Suprasec F5100,ICI,202,13.2,13.1,11.7,3
+7,Cellulose acetate,cellulose acetate,CA,ellidra A,Bayer,18.6,12.7,11,7.6,3
+8,Chlorinated polypropylene,chlorinated PP,CPP,Parlon P-10,Hercules,20.3,6.3,5.4,10.6,3
+9,Coumarone-indene resin,indene resin,CIR,Picocoumarone 450-L,PIC,19.4,5.5,5.8,9.6,3
+10,Epoxy,epoxy resin,ER,Epikote 100,Shell,20.4,12,11.5,12.7,3
+11,Ester gum,ester gum,EG,Ester gum BL,Hercules,19.6,4.7,7.8,10.6,3
+12,Furfuryl alcohol resin,furfuryl resin,FR,Durez 14383,Hooker,21.2,13.6,12.8,13.7,3
+13,Hexamethoxymethyl melamine,melamine resin,MR,Cymel 300,Amer Cyan,20.4,8.5,10.6,14.7,3
+14,Isoprene elastomer,isoprene rubber,IR,Cariflex IR305,Shell,16.6,1.4,-0.8,9.6,3
+15,Celllulose nitrate,cellulose nitrate,CN,"0.5 s, H-23",Hagedorn,15.4,14.7,8.8,11.5,3
+16,"Pentaerthritol ester of rosin, modified",rosin ester,RE,Cellolyn 102,Hercules,21.7,0.9,8.5,15.8,3
+17,Petroleum hydrocarbon resin,polyolefin resin,PR,Piccopale 110,PIC,17.6,1.2,3.6,6.6,3
+18,Phenolic resin,phenolic,,"resol, Phenodur 373U",CWA ,19.7,11.6,14.6,12.7,3
+19,Phenolic resin,bakelite,,Super Beckacite 1001,Reichhold,23.3,6.6,8.3,19.8,3
+20,Polyamide ,nylon,PA,Versamid 930,General Mills,17.4,-1.9,14.9,9.6,3
+21,cis-Polybutadiene elastomer,butyl rubber,BR,Bunahuls CB110,CWH,17.5,2.3,3.4,6.5,3
+22,Polyisobutylene,poly(isobutylene),PIB,Lutonal IC/123,BASF,14.5,2.5,4.7,12.7,3
+23,Polyethyl methacrylate,poly(ethyl methacrylate),PEMA,Lucite 2042,Du Pont,17.6,9.7,4,10.6,3
+24,Poly(methyl methacrylate),polymethyl methacrylate,PMMA,,Room & Haas,18.6,10.5,7.5,8.6,3
+25,Polystyrene,polystyrene,PS,Polystyrene LG,BASF,21.3,5.8,4.3,12.7,3
+26,Poly(vinyl acetate),polyvinyl acetate,PVAC,Mowlith 50,oechst,20.9,11.3,9.6,13.7,3
+27,Poly(vinyl butyral),polyvinyl butyral,PVBA,Butvar B76,Shawnigan,18.6,4.4,13,10.6,3
+28,Polyvinyl chloride,poly(vinyl chloride),PVC,"Vipla KR, K=50",Montecatini,18.2,7.5,8.3,3.5,3
+29,Saturated polyester,polyester resin,PER,Desmophen 850,Bayer,21.5,14.9,12.3,16.8,3
+30,Styrene-butadiene raw elastomer,styrene-butadiene rubber,SBR,Polysar 5630,Polymer Corp.,17.6,3.4,2.7,6.6,3
+31,Terpene resin,polyterpene,PT,Piccolyte S-1000,PIC,16.5,0.4,2.8,8.6,3
+32,Urea-formaldehde resin,urea resin,UFR,Pastopal H,BASF,20.8,8.3,15,12.7,3

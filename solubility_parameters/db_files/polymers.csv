@@ -1,0 +1,108 @@
+polymer_id,subst_short_name,subst_display_name,delta_d,delta_p,delta_h,R0,src_id
+0,acrylonitrilebutadiene,"Acrylonitrile-butadiene elastomer (Hycar 1052, BF Goodrich)",18.6,8.8,4.2,9.6,3
+1,alcoholsoluble,"Alcohol soluble resin (Pentalyn 255, Hercules)",17.6,9.4,14.3,10.6,3
+2,alkydlongoil66oillength,"Alkyd, long oil,66% oil length (Plexal P65, Polyplex)",20.4,3.4,4.6,13.7,3
+3,alkydshortoilcoconutoil34phthalicanhydride,"Alkyd, short oil, coconut oil 34% phthalic anhydride (Plexal C34, Polyplex)",18.5,9.2,4.9,10.6,3
+4,blockedphenolisocyanate,"Blocked phenol isocyanate (Suprasec F5100, ICI)",202.0,13.2,13.1,11.7,3
+5,celluloseacetate,"Cellulose acetate (ellidra A, Bayer)",18.6,12.7,11.0,7.6,3
+6,chlorinatedpolypropylene,"Chlorinated polypropylene (Parlon P-10, Hercules)",20.3,6.3,5.4,10.6,3
+7,coumaroneindene,"Coumarone-indene resin (Picocoumarone 450-L, PIC)",19.4,5.5,5.8,9.6,3
+8,epoxy,"Epoxy (Epikote 100, Shell)",20.4,12.0,11.5,12.7,3
+9,estergum,"Ester gum (Ester gum BL, Hercules)",19.6,4.7,7.8,10.6,3
+10,furfurylalcohol,"Furfuryl alcohol resin (Durez 14383, Hooker)",21.2,13.6,12.8,13.7,3
+11,hexamethoxymethylmelamine,"Hexamethoxymethyl melamine (Cymel 300, Amer Cyan)",20.4,8.5,10.6,14.7,3
+12,isoprene,"Isoprene elastomer (Cariflex IR305, Shell)",16.6,1.4,-0.8,9.6,3
+13,celllulosenitrate,"Celllulose nitrate (0.5 s, H-23, Hagedorn)",15.4,14.7,8.8,11.5,3
+14,pentaerthritolesterofrosinmodified,"Pentaerthritol ester of rosin, modified (Cellolyn 102, Hercules)",21.7,0.9,8.5,15.8,3
+15,petroleumhydrocarbon,"Petroleum hydrocarbon resin (Piccopale 110, PIC)",17.6,1.2,3.6,6.6,3
+16,phenolic,"Phenolic resin (resol, Phenodur 373U, CWA )",19.7,11.6,14.6,12.7,3
+17,polyamide,"Polyamide  (Versamid 930, General Mills)",17.4,-1.9,14.9,9.6,3
+18,cispolybutadiene,"cis-Polybutadiene elastomer (Bunahuls CB110, CWH)",17.5,2.3,3.4,6.5,3
+19,polyisobutylene,"Polyisobutylene (Lutonal IC/123, BASF)",14.5,2.5,4.7,12.7,3
+20,polyethylmethacrylate,"Polyethyl methacrylate (Lucite 2042, Du Pont)",17.6,9.7,4.0,10.6,3
+21,polymethylmethacrylate,,18.6,10.5,7.5,8.6,3
+22,polystyrene,"Polystyrene (Polystyrene LG, BASF)",21.3,5.8,4.3,12.7,3
+23,polyvinylacetate,"Poly(vinyl acetate) (Mowlith 50, oechst)",20.9,11.3,9.6,13.7,3
+24,polyvinylbutyral,"Poly(vinyl butyral) (Butvar B76, Shawnigan)",18.6,4.4,13.0,10.6,3
+25,polyvinylchloride,"Polyvinyl chloride (Vipla KR, K=50, Montecatini)",18.2,7.5,8.3,3.5,3
+26,saturatedpolyester,"Saturated polyester (Desmophen 850, Bayer)",21.5,14.9,12.3,16.8,3
+27,styrenebutadieneraw,"Styrene-butadiene raw elastomer (Polysar 5630, Polymer Corp.)",17.6,3.4,2.7,6.6,3
+28,terpene,"Terpene resin (Piccolyte S-1000, PIC)",16.5,0.4,2.8,8.6,3
+29,ureaformaldehde,"Urea-formaldehde resin (Pastopal H, BASF)",20.8,8.3,15.0,12.7,3
+30,acrylonitrile,"Acrylonitrile-butadiene elastomer (Hycar 1052, BF Goodrich)",18.6,8.8,4.2,9.6,3
+31,alcohol,"Alcohol soluble resin (Pentalyn 255, Hercules)",17.6,9.4,14.3,10.6,3
+32,alkyd,"Alkyd, long oil,66% oil length (Plexal P65, Polyplex)",20.4,3.4,4.6,13.7,3
+33,shortalkyd,"Alkyd, short oil, coconut oil 34% phthalic anhydride (Plexal C34, Polyplex)",18.5,9.2,4.9,10.6,3
+34,polyurethanearomatic,"Blocked phenol isocyanate (Suprasec F5100, ICI)",202.0,13.2,13.1,11.7,3
+35,chlorinatedpp,"Chlorinated polypropylene (Parlon P-10, Hercules)",20.3,6.3,5.4,10.6,3
+36,indene,"Coumarone-indene resin (Picocoumarone 450-L, PIC)",19.4,5.5,5.8,9.6,3
+37,furfuryl,"Furfuryl alcohol resin (Durez 14383, Hooker)",21.2,13.6,12.8,13.7,3
+38,melamine,"Hexamethoxymethyl melamine (Cymel 300, Amer Cyan)",20.4,8.5,10.6,14.7,3
+39,cellulosenitrate,"Celllulose nitrate (0.5 s, H-23, Hagedorn)",15.4,14.7,8.8,11.5,3
+40,rosinester,"Pentaerthritol ester of rosin, modified (Cellolyn 102, Hercules)",21.7,0.9,8.5,15.8,3
+41,polyolefin,"Petroleum hydrocarbon resin (Piccopale 110, PIC)",17.6,1.2,3.6,6.6,3
+42,bakelite,"Phenolic resin (Super Beckacite 1001, Reichhold)",23.3,6.6,8.3,19.8,3
+43,nylon,"Polyamide  (Versamid 930, General Mills)",17.4,-1.9,14.9,9.6,3
+44,butyl,"cis-Polybutadiene elastomer (Bunahuls CB110, CWH)",17.5,2.3,3.4,6.5,3
+45,polyester,"Saturated polyester (Desmophen 850, Bayer)",21.5,14.9,12.3,16.8,3
+46,styrenebutadiene,"Styrene-butadiene raw elastomer (Polysar 5630, Polymer Corp.)",17.6,3.4,2.7,6.6,3
+47,polyterpene,"Terpene resin (Piccolyte S-1000, PIC)",16.5,0.4,2.8,8.6,3
+48,urea,"Urea-formaldehde resin (Pastopal H, BASF)",20.8,8.3,15.0,12.7,3
+49,abr,"Acrylonitrile-butadiene elastomer (Hycar 1052, BF Goodrich)",18.6,8.8,4.2,9.6,3
+50,ar,"Alkyd, long oil,66% oil length (Plexal P65, Polyplex)",20.4,3.4,4.6,13.7,3
+51,pu,"Blocked phenol isocyanate (Suprasec F5100, ICI)",202.0,13.2,13.1,11.7,3
+52,ca,"Cellulose acetate (ellidra A, Bayer)",18.6,12.7,11.0,7.6,3
+53,cpp,"Chlorinated polypropylene (Parlon P-10, Hercules)",20.3,6.3,5.4,10.6,3
+54,cir,"Coumarone-indene resin (Picocoumarone 450-L, PIC)",19.4,5.5,5.8,9.6,3
+55,er,"Epoxy (Epikote 100, Shell)",20.4,12.0,11.5,12.7,3
+56,eg,"Ester gum (Ester gum BL, Hercules)",19.6,4.7,7.8,10.6,3
+57,fr,"Furfuryl alcohol resin (Durez 14383, Hooker)",21.2,13.6,12.8,13.7,3
+58,mr,"Hexamethoxymethyl melamine (Cymel 300, Amer Cyan)",20.4,8.5,10.6,14.7,3
+59,ir,"Isoprene elastomer (Cariflex IR305, Shell)",16.6,1.4,-0.8,9.6,3
+60,cn,"Celllulose nitrate (0.5 s, H-23, Hagedorn)",15.4,14.7,8.8,11.5,3
+61,re,"Pentaerthritol ester of rosin, modified (Cellolyn 102, Hercules)",21.7,0.9,8.5,15.8,3
+62,pr,"Petroleum hydrocarbon resin (Piccopale 110, PIC)",17.6,1.2,3.6,6.6,3
+63,pa,"Polyamide  (Versamid 930, General Mills)",17.4,-1.9,14.9,9.6,3
+64,br,"cis-Polybutadiene elastomer (Bunahuls CB110, CWH)",17.5,2.3,3.4,6.5,3
+65,pib,"Polyisobutylene (Lutonal IC/123, BASF)",14.5,2.5,4.7,12.7,3
+66,pema,"Polyethyl methacrylate (Lucite 2042, Du Pont)",17.6,9.7,4.0,10.6,3
+67,pmma,,18.6,10.5,7.5,8.6,3
+68,ps,"Polystyrene (Polystyrene LG, BASF)",21.3,5.8,4.3,12.7,3
+69,pvac,"Poly(vinyl acetate) (Mowlith 50, oechst)",20.9,11.3,9.6,13.7,3
+70,pvba,"Poly(vinyl butyral) (Butvar B76, Shawnigan)",18.6,4.4,13.0,10.6,3
+71,pvc,"Polyvinyl chloride (Vipla KR, K=50, Montecatini)",18.2,7.5,8.3,3.5,3
+72,per,"Saturated polyester (Desmophen 850, Bayer)",21.5,14.9,12.3,16.8,3
+73,sbr,"Styrene-butadiene raw elastomer (Polysar 5630, Polymer Corp.)",17.6,3.4,2.7,6.6,3
+74,pt,"Terpene resin (Piccolyte S-1000, PIC)",16.5,0.4,2.8,8.6,3
+75,ufr,"Urea-formaldehde resin (Pastopal H, BASF)",20.8,8.3,15.0,12.7,3
+76,hycar1052,"Acrylonitrile-butadiene elastomer (Hycar 1052, BF Goodrich)",18.6,8.8,4.2,9.6,3
+77,pentalyn255,"Alcohol soluble resin (Pentalyn 255, Hercules)",17.6,9.4,14.3,10.6,3
+78,pentalyn830,"Alcohol soluble resin (Pentalyn 830, Hercules)",20.0,5.8,10.9,11.7,3
+79,plexalp65,"Alkyd, long oil,66% oil length (Plexal P65, Polyplex)",20.4,3.4,4.6,13.7,3
+80,plexalc34,"Alkyd, short oil, coconut oil 34% phthalic anhydride (Plexal C34, Polyplex)",18.5,9.2,4.9,10.6,3
+81,suprasecf5100,"Blocked phenol isocyanate (Suprasec F5100, ICI)",202.0,13.2,13.1,11.7,3
+82,ellidraa,"Cellulose acetate (ellidra A, Bayer)",18.6,12.7,11.0,7.6,3
+83,parlonp10,"Chlorinated polypropylene (Parlon P-10, Hercules)",20.3,6.3,5.4,10.6,3
+84,picocoumarone450l,"Coumarone-indene resin (Picocoumarone 450-L, PIC)",19.4,5.5,5.8,9.6,3
+85,epikote100,"Epoxy (Epikote 100, Shell)",20.4,12.0,11.5,12.7,3
+86,estergumbl,"Ester gum (Ester gum BL, Hercules)",19.6,4.7,7.8,10.6,3
+87,durez14383,"Furfuryl alcohol resin (Durez 14383, Hooker)",21.2,13.6,12.8,13.7,3
+88,cymel300,"Hexamethoxymethyl melamine (Cymel 300, Amer Cyan)",20.4,8.5,10.6,14.7,3
+89,cariflexir305,"Isoprene elastomer (Cariflex IR305, Shell)",16.6,1.4,-0.8,9.6,3
+90,05sh23,"Celllulose nitrate (0.5 s, H-23, Hagedorn)",15.4,14.7,8.8,11.5,3
+91,cellolyn102,"Pentaerthritol ester of rosin, modified (Cellolyn 102, Hercules)",21.7,0.9,8.5,15.8,3
+92,piccopale110,"Petroleum hydrocarbon resin (Piccopale 110, PIC)",17.6,1.2,3.6,6.6,3
+93,resolphenodur373u,"Phenolic resin (resol, Phenodur 373U, CWA )",19.7,11.6,14.6,12.7,3
+94,superbeckacite1001,"Phenolic resin (Super Beckacite 1001, Reichhold)",23.3,6.6,8.3,19.8,3
+95,versamid930,"Polyamide  (Versamid 930, General Mills)",17.4,-1.9,14.9,9.6,3
+96,bunahulscb110,"cis-Polybutadiene elastomer (Bunahuls CB110, CWH)",17.5,2.3,3.4,6.5,3
+97,lutonalic123,"Polyisobutylene (Lutonal IC/123, BASF)",14.5,2.5,4.7,12.7,3
+98,lucite2042,"Polyethyl methacrylate (Lucite 2042, Du Pont)",17.6,9.7,4.0,10.6,3
+99,polystyrenelg,"Polystyrene (Polystyrene LG, BASF)",21.3,5.8,4.3,12.7,3
+100,mowlith50,"Poly(vinyl acetate) (Mowlith 50, oechst)",20.9,11.3,9.6,13.7,3
+101,butvarb76,"Poly(vinyl butyral) (Butvar B76, Shawnigan)",18.6,4.4,13.0,10.6,3
+102,viplakrk50,"Polyvinyl chloride (Vipla KR, K=50, Montecatini)",18.2,7.5,8.3,3.5,3
+103,desmophen850,"Saturated polyester (Desmophen 850, Bayer)",21.5,14.9,12.3,16.8,3
+104,polysar5630,"Styrene-butadiene raw elastomer (Polysar 5630, Polymer Corp.)",17.6,3.4,2.7,6.6,3
+105,piccolytes1000,"Terpene resin (Piccolyte S-1000, PIC)",16.5,0.4,2.8,8.6,3
+106,pastopalh,"Urea-formaldehde resin (Pastopal H, BASF)",20.8,8.3,15.0,12.7,3
